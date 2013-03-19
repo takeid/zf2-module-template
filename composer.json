@@ -1,0 +1,33 @@
+{
+    "name": "",
+    "description": "",
+    "version": "",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": [
+
+    ],
+    "homepage": "",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {
+        "zendframework/zendframework": "2.*"
+    },
+    "suggest": {
+    },
+    "replace": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "\\": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
